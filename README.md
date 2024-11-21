@@ -1,0 +1,2 @@
+# pifagor
+School project.
